@@ -6,11 +6,6 @@
 - 📫 How to reach me: Join My Discord: https://discord.gg/NAhaCh3mZ4
 
 
-![HR_1738Gz Stats](https://github-readme-stats.vercel.app/api?username=HR_1738Gz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![HR_1738Gz Streak](https://github-readme-streak-stats.herokuapp.com/?user=HR_1738Gz&theme=tokyonight&hide_border=true)
-![HR_1738Gz Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR_1738Gz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-
 
 <!---
 faiqff/faiqff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
